@@ -3,8 +3,7 @@
 
 - 🌱 I’m currently learning **Data Programming for Business Intelligence & Managerial Applications of Object-Oriented Technologies**
 
-- ![image](https://github.com/Kaleta-25/Kaleta-25/assets/120612489/733b733c-8657-47f9-b27b-38342bdffcfc)
- I’m looking to collaborate on **Machine Learning, Data Science, and Software Development Projects**
+- 👨🏼‍💻 I’m looking to collaborate on **Machine Learning, Data Science, and Software Development Projects**
 
 - 💬 Ask me about **Technology, Finance or Sports**
 
