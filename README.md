@@ -5,8 +5,6 @@
 
 - 👨🏼‍💻 I’m looking to collaborate on **Machine Learning, Data Science, and Software Development Projects**
 
-- 💬 Ask me about **Technology, Finance or Sports**
-
 - 📫 How to reach me **kevinkaleta25@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/kevin-kaleta-18723419a/](https://www.linkedin.com/in/kevin-kaleta-18723419a/)
