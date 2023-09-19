@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Programming for Business Intelligence & Managerial Applications of Object-Oriented Technologies**
 
-- 👯 I’m looking to collaborate on **Machine Learning & Data Science Projects**
+- 👯 I’m looking to collaborate on **Machine Learning, Data Science, and Software Development Projects**
 
 - 💬 Ask me about **Python, Data Science, Machine Learning, & Software Development**
 
