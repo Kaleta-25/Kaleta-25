@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevin Kaleta</h1>
-<h3 align="center">Over 2 years of hands-on experience in technology, I have successfully contributed to the development and implementation of cutting-edge solutions. My expertise lies at the intersection of business strategy and technology, driving innovation and efficiency in the ever evolving digital landscape.</h3>
+<h3 align="center"> MS Information Systems and Technology student with over 2 years of hands-on experience in technology and successfully contributing to the development and implementation of cutting-edge solutions.</h3>
 
 - 🌱 I’m currently learning **Data Programming for Business Intelligence & Managerial Applications of Object-Oriented Technologies**
 
