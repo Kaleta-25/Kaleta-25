@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Data Programming for Business Intelligence & Managerial Applications of Object-Oriented Technologies**
 
-- 👨🏼‍💻 I’m looking to collaborate on **Machine Learning, Data Science/Analysis, and Software Development Projects**
-
 - 📫 How to reach me **kevinkaleta25@gmail.com**
 
 - 📄 Know about my professional experiences [https://www.linkedin.com/in/kevin-kaleta-18723419a/](https://www.linkedin.com/in/kevin-kaleta-18723419a/)
