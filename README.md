@@ -5,6 +5,8 @@
 
 - 📫 How to reach me **kevinkaleta25@gmail.com**
 
+- 👨‍💻 All of my projects are available at [https://github.com/Kaleta-25/Data-Science-Analytics-Projects]
+
 - 📄 Know about my professional experiences [https://www.linkedin.com/in/kevin-kaleta-18723419a/](https://www.linkedin.com/in/kevin-kaleta-18723419a/)
 
 <h3 align="left">Languages and Tools:</h3>
