@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kevin Kaleta</h1>
 <h3 align="center">A passionate finance, data and software professional with over 2 years of hands-on experience successfully contributing to the development and implementation of technology & financial solutions.</h3>
 
-- 🌱 I’m currently learning **Data Programming for Business Intelligence & Managerial Applications of Object-Oriented Technologies**
+- 🌱 I’m currently learning **Data Programming for Business Intelligence & Management Information Systems.**
 
 - 📫 How to reach me **kevinkaleta25@gmail.com**
 
