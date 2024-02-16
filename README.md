@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevin Kaleta</h1>
-<h3 align="center">A passionate finance, data and software professional with over 2 years of hands-on experience successfully contributing to the development and implementation of technology & data solutions.</h3>
+<h3 align="center">A passionate finance, data and technology professional with over 2 years of hands-on experience successfully contributing to the development and implementation of business solutions.</h3>
 
 - 🌱 I’m currently learning **Managerial Applications of Object-Oriented Technologies & Decision Support Systems for Business Intelligence**
 
